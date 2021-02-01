@@ -8,10 +8,10 @@ const element = (
         This is Kavya Onkarappa Sunanda.<br/>
         I'm currently pursuing Master's in Computer Science from San Diego State University.
       </p>
-      <a id="button-1" className="button" href="https://github.com/KavyaOS" target="_blank">
+      <a id="Button" className="button" href="https://github.com/KavyaOS" target="_blank">
         Github
         <img
-        id="arrow-hover"
+        id="arrow"
         src="https://github.com/atloomer/atloomer.github.io/blob/master/img/iconmonstr-paper-plane-1-120.png?raw=true"
         />
       </a>

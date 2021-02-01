@@ -42,7 +42,7 @@ body {
     letter-spacing: 1px;
   }
   
-  #arrow-hover {
+  #arrow {
     width: 15px;
     height: 10px;
     position: absolute;
@@ -54,7 +54,7 @@ body {
     padding: 0 5px;
   }
   
-  a#button-1:hover img {
+  a#Button:hover img {
     width: 15px;
     opacity: 1;
     transform: translateX(50px);
