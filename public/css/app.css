@@ -4,7 +4,7 @@ body {
     background-color: rgb(6, 75, 48);
   }
   
-  .container {
+  .frame {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -24,9 +24,9 @@ body {
     display: inline-flex;
     height: 40px;
     width: 150px;
-    border: 2px solid #bfc0c0;
+    border: 2px solid white;
     margin: 20px 20px 20px 20px;
-    color: #f8fafa;
+    color: white;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 0.8em;
