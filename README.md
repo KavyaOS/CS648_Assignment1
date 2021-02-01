@@ -6,4 +6,6 @@ npm install
 npm run watch
 npm start
 
-open the link "https://localhost:3000" in your browser
+open the link "https://localhost:3000" in your browser to see a short and quick introduction about me.
+
+Thank you
